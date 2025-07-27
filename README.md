@@ -66,10 +66,3 @@
   <img src="https://github-profile-trophy.vercel.app/?username=minindumadhawa&theme=darkhub&no-frame=true&row=2&column=3" alt="GitHub Trophies"/>
 </p>
 
----
-
-<!-- Fancy animated SVG wave background at the bottom -->
-<img src="https://github.com/minindumadhawa/minindumadhawa/blob/output/github-contribution-grid-snake.svg" alt="snake gif" width="100%"/>
-
----
-
