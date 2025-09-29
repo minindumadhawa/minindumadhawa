@@ -1,79 +1,62 @@
-<!-- 🎉 Animated Header Banner -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=22d3ee&height=250&section=header&text=Hi%20👋,%20I'm%20Minidu%20Madhava&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=40" />
-</p>
-
-<h3 align="center">✨ IT Undergraduate | 💻 Web Developer | ☕ Java Enthusiast from Sri Lanka</h3>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=4000&pause=1000&color=22D3EE&center=true&vCenter=true&width=500&lines=Passionate+IT+Student;Exploring+MERN+Stack;Clean+Code+Advocate;Always+Learning+and+Building" alt="Typing SVG" />
-</p>
+<h1 align="center">Hi 👋, I'm Minidu Madhava</h1>
+<h3 align="center">💻 IT Undergraduate | 🌐 Web Developer | ☕ Java Enthusiast</h3>
 
 ---
 
 ## 🚀 About Me  
-
-- 🎓 Undergraduate in **Information Technology**  
-- 🔭 Currently working on **university projects & personal dev projects**  
-- 🌱 Exploring **MERN stack, Java, and Spring**  
-- 👯 Interested in **open-source contributions**  
-- 💡 Love **building user-friendly apps and solving problems**  
+🎓 Undergraduate in **Information Technology**  
+🔭 Currently building **university & personal projects**  
+🌱 Learning **MERN Stack + Java (Spring Boot)**  
+👯 Open to **collaboration & open-source contributions**  
+💡 Passionate about **clean code & user-friendly design**  
 
 ---
 
 ## 🛠️ Tech Stack  
 
-### ⚡ Programming Languages  
-<p align="center"> 
-  <img src="https://skillicons.dev/icons?i=java,js,cpp,python,php" />
-</p>
+<div align="center">
+
+### 🚧 Languages & Frameworks  
+<img src="https://skillicons.dev/icons?i=java,js,cpp,python,php,react,nodejs,express" />
 
 ### 🗄️ Databases  
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres" />
-</p>
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres" />
 
-### 🛠️ Tools & Technologies  
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,react,nodejs" />
-</p>
+### ⚙️ Tools & Platforms  
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman" />
+
+</div>
 
 ---
 
-## 📊 GitHub Stats & Animations  
+## 📊 GitHub Insights  
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=minidumadhava&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=minidumadhava&theme=tokyonight&hide_border=true&background=0D1117" width="48%" />
-</p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=minidumadhava&show_icons=true&theme=radical&hide_border=true&border_radius=12&bg_color=0d1117" height="180em" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=minidumadhava&theme=radical&hide_border=true&border_radius=12&background=0d1117" height="180em" />
+</div>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=minidumadhava&bg_color=0D1117&color=22d3ee&line=38bdae&point=ffffff&area=true&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="snake animation" />
-</p>
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=minidumadhava&bg_color=0d1117&color=22d3ee&line=38bdae&point=ffffff&area=true&hide_border=true" width="95%" />
+</div>
 
 ---
 
-## 🌍 Connect With Me  
+## 🌐 Connect With Me  
 
 <p align="center">
-  <a href="https://fb.com/minidu.madhava" target="blank">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white&labelColor=101010" />
+  <a href="https://fb.com/minidu.madhava" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
   </a>
-  <a href="https://www.youtube.com/@minidu" target="blank">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=101010" />
+  <a href="https://www.youtube.com/@minidu" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
   </a>
   <a href="mailto:it23672314@my.sliit.lk">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010" />
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://linkedin.com/in/minidu-madhava" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
 
 ---
-
-<!-- 🎉 Animated Footer -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=22d3ee&height=120&section=footer" />
-</p>
