@@ -1,68 +1,79 @@
-<!-- Header Animation -->
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Minindu;Full+Stack+Developer+%F0%9F%92%BB;Tech+Explorer+%F0%9F%9A%80;Open+Source+Enthusiast+%F0%9F%92%96" alt="Typing SVG" />
-</h1>
+<!-- 🎉 Animated Header Banner -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=22d3ee&height=250&section=header&text=Hi%20👋,%20I'm%20Minidu%20Madhava&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=40" />
+</p>
+
+<h3 align="center">✨ IT Undergraduate | 💻 Web Developer | ☕ Java Enthusiast from Sri Lanka</h3>
 
 <p align="center">
-  <a href="mailto:minidumadawa259@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://github.com/minindumadhawa"><img src="https://img.shields.io/github/followers/minindumadhawa?label=Follow&style=social" /></a>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=4000&pause=1000&color=22D3EE&center=true&vCenter=true&width=500&lines=Passionate+IT+Student;Exploring+MERN+Stack;Clean+Code+Advocate;Always+Learning+and+Building" alt="Typing SVG" />
 </p>
 
 ---
 
-### 👨‍💻 About Me
+## 🚀 About Me  
 
-- 🎓 I'm a beginner software engineer with a growing passion for development  
-- 🛠️ Currently learning: **React, Node.js, MongoDB, and APIs**  
-- 🌱 I love turning ideas into real applications  
-- 📧 Reach me at: **minidumadawa259@gmail.com**  
-- ⚡ Fun fact: I debug more than I sleep 😄
+- 🎓 Undergraduate in **Information Technology**  
+- 🔭 Currently working on **university projects & personal dev projects**  
+- 🌱 Exploring **MERN stack, Java, and Spring**  
+- 👯 Interested in **open-source contributions**  
+- 💡 Love **building user-friendly apps and solving problems**  
 
 ---
 
-### 🌐 Connect with Me
-<p align="left">
-  <a href="mailto:minidumadawa259@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
-  <!-- You can add more icons here: LinkedIn, Portfolio, Twitter -->
+## 🛠️ Tech Stack  
+
+### ⚡ Programming Languages  
+<p align="center"> 
+  <img src="https://skillicons.dev/icons?i=java,js,cpp,python,php" />
+</p>
+
+### 🗄️ Databases  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres" />
+</p>
+
+### 🛠️ Tools & Technologies  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,react,nodejs" />
 </p>
 
 ---
 
-### 🛠️ Languages & Tools
-
-<p align="left">
-  <!-- Keep your current toolset -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="js" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cpp" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
-</p>
-
----
-
-### 📊 GitHub Stats
+## 📊 GitHub Stats & Animations  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=minindumadhawa&layout=compact&theme=radical" alt="Top Languages" />
-  <img src="https://github-readme-stats.vercel.app/api?username=minindumadhawa&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=minindumadhawa&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=minidumadhava&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=minidumadhava&theme=tokyonight&hide_border=true&background=0D1117" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=minidumadhava&bg_color=0D1117&color=22d3ee&line=38bdae&point=ffffff&area=true&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="snake animation" />
 </p>
 
 ---
 
-### 🏆 GitHub Trophies
+## 🌍 Connect With Me  
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=minindumadhawa&theme=darkhub&no-frame=true&row=2&column=3" alt="GitHub Trophies"/>
+  <a href="https://fb.com/minidu.madhava" target="blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white&labelColor=101010" />
+  </a>
+  <a href="https://www.youtube.com/@minidu" target="blank">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=101010" />
+  </a>
+  <a href="mailto:it23672314@my.sliit.lk">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010" />
+  </a>
 </p>
 
+---
+
+<!-- 🎉 Animated Footer -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=22d3ee&height=120&section=footer" />
+</p>
