@@ -1,6 +1,6 @@
 <!-- ✨ Modern Hero Section -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=12&height=300&section=header&text=Minindu%20Madhawa&fontSize=50&fontColor=ffffff&animation=blinking&fontAlignY=40&desc=IT%20Undergraduate%20|%20Web%20Developer%20|%20Java%20Enthusiast%20from%20Sri%20Lanka&descSize=20&descAlignY=60" />
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=12&height=300&section=header&text=Minindu%20Madhawa&fontSize=50&fontColor=ffffff&fontAlignY=40&desc=IT%20Undergraduate%20|%20Web%20Developer%20|%20Java%20Enthusiast%20from%20Sri%20Lanka&descSize=20&descAlignY=60" />
 </div>
 
 <p align="center">
