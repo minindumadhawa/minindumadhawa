@@ -1,17 +1,4 @@
-<!-- 🌟 ULTRA STYLISH HERO SECTION -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=cylinder&color=gradient&customColorList=0,2,2,5,30&height=350&section=header&text=MINIDU%20MADHAVA&fontSize=60&fontColor=fff&animation=blinking&fontAlignY=50&desc=✨%20DIGITAL%20ARCHITECT%20%26%20CODE%20ARTIST%20✨&descSize=18&descAlignY=70" />
-</div>
 
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=32&duration=2500&pause=800&color=00D9FF&center=true&vCenter=true&width=800&height=100&lines=🚀+FULL+STACK+DEVELOPER;💎+UI%2FUX+ENTHUSIAST;⚡+JAVA+%26+REACT+SPECIALIST;🌟+BUILDING+THE+FUTURE" alt="Neon Typing" />
-</div>
-
-<div align="center">
-  <img src="https://img.shields.io/badge/PROFILE_VIEWS-000000?style=for-the-badge&logo=eye&logoColor=00D9FF&labelColor=000000" alt="Views" />
-  <img src="https://komarev.com/ghpvc/?username=minidumadhava&label=&color=00D9FF&style=for-the-badge" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/minidumadhava?label=FOLLOWERS&style=for-the-badge&color=FF6B6B&labelColor=000000&logo=github" alt="Followers" />
-</div>
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" height="3" />
