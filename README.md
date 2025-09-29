@@ -3,6 +3,11 @@
   <img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=12&height=300&section=header&text=Minindu%20Madhawa&fontSize=50&fontColor=ffffff&animation=blinking&fontAlignY=40&desc=IT%20Undergraduate%20|%20Web%20Developer%20|%20Java%20Enthusiast%20from%20Sri%20Lanka&descSize=20&descAlignY=60" />
 </div>
 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=22D3EE&center=true&vCenter=true&width=435&lines=Turning+ideas+into+reality;Clean+code+enthusiast;Passionate+about+learning;Creative+problem+solver" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=4000&pause=1000&color=22D3EE&center=true&vCenter=true&width=500&lines=Turning+ideas+into+reality;Clean+Code+Enthusiast;Creative+Problem+Solver;Always+Learning+New+Things" alt="Typing SVG" />
+</p>
+
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=28&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=600&height=80&lines=🚀+Full+Stack+Developer;🎓+IT+Undergraduate;☕+Java+%26+JavaScript+Expert;🌟+Building+Tomorrow's+Web" alt="Dynamic Typing" />
 </div>
