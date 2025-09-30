@@ -1,21 +1,32 @@
-<!-- 🖥️ Terminal Animation Header -->
+<!-- 💻 Animated Code Header -->
 <div align="center">
 
-  <div style="font-family: 'Courier New', monospace; background: #000000; color: #00FF41; padding: 25px; border-radius: 10px; border: 3px solid #00FF41; max-width: 700px; text-align: left;">
+  <!-- Code Window -->
+  <div style="font-family: 'Fira Code', monospace; background: #1a1a1a; padding: 20px; border-radius: 10px; border: 1px solid #333; text-align: left; max-width: 600px;">
     
-  <div style="margin-bottom: 15px;">
-      <span style="color: #00FF41;">visitor@github:~$ </span>
-      <span id="typed-text" style="border-right: 2px solid #00FF41; animation: blink 1s infinite;"></span>
-    </div>
+  <!-- Window Header -->
+  <div style="background: #2d2d2d; padding: 8px; border-radius: 5px 5px 0 0; margin: -20px -20px 20px -20px;">
+      <span style="color: #ff5f56; margin-right: 5px;">●</span>
+      <span style="color: #ffbd2e; margin-right: 5px;">●</span>
+      <span style="color: #27ca3f;">●</span>
+   </div>
 
-  <div id="terminal-output" style="line-height: 1.4;">
-      <div>> Initializing system...</div>
-      <div>> Loading profile data...</div>
-      <div>> Welcome to Madhawa's GitHub!</div>
-      <div>> Role: Full Stack Developer</div>
-      <div>> Status: Coding amazing projects</div>
-      <div>> Ready to collaborate!</div>
+  <!-- Animated Code -->
+  <div style="color: #f8f8f2; line-height: 1.5;">
+      <span style="color: #f92672;">class</span> <span style="color: #a6e22e;">Developer</span> {<br>
+      &nbsp;&nbsp;<span style="color: #f92672;">constructor</span>() {<br>
+      &nbsp;&nbsp;&nbsp;&nbsp;<span style="color: #f92672;">this</span>.<span style="color: #a6e22e;">name</span> = <span style="color: #e6db74;">"Madhawa Diyanath"</span>;<br>
+      &nbsp;&nbsp;&nbsp;&nbsp;<span style="color: #f92672;">this</span>.<span style="color: #a6e22e;">role</span> = <span style="color: #e6db74;">"Full Stack Developer"</span>;<br>
+      &nbsp;&nbsp;&nbsp;&nbsp;<span style="color: #f92672;">this</span>.<span style="color: #a6e22e;">skills</span> = [<span style="color: #e6db74;">"JavaScript"</span>, <span style="color: #e6db74;">"React"</span>, <span style="color: #e6db74;">"Node.js"</span>];<br>
+      &nbsp;&nbsp;}<br>
+      &nbsp;&nbsp;<span style="color: #66d9ef;">code</span>() {<br>
+      &nbsp;&nbsp;&nbsp;&nbsp;<span style="color: #f92672;">return</span> <span style="color: #e6db74;">"Hello World!"</span>;<br>
+      &nbsp;&nbsp;}<br>
+      }
   </div>
+
+   <!-- Blinking Cursor -->
+  <span style="color: #00FF41; animation: blink 1s infinite;">▊</span>
 
   </div>
 
@@ -23,7 +34,7 @@
 
 <style>
   @keyframes blink {
-    0%, 50% { border-color: #00FF41; }
-    51%, 100% { border-color: transparent; }
+    0%, 50% { opacity: 1; }
+    51%, 100% { opacity: 0; }
   }
 </style>
