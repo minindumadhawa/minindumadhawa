@@ -1,3 +1,3 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:ffafbd,20:ffc3a0,40:ffdde1,60:cc2b5e,80:753a88,100:42275a&height=300&section=header&text=Creative%20Developer%20🎨&fontSize=41&fontColor=ffffff&animation=pulse&fontAlignY=40&desc=Beautiful%20Code%20•%20Beautiful%20Design&descSize=19&descAlignY=75&stroke=ffffff&strokeWidth=1&fontFamily=Comic%20Neue&duration=650" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4776E6,20:8E54E9,40:8E2DE2,60:4A00E0,80:3A0088,100:1A0035&height=340&section=header&text=Hello%20I'm%20Madhawa%20✨&fontSize=46&fontColor=ffffff&animation=twinkling&fontAlignY=33&desc=Building%20the%20Future%20with%20Code&descSize=21&descAlignY=79&stroke=ffffff&strokeWidth=1.8&fontFamily=Roboto&duration=500" />
 </p>
