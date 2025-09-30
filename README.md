@@ -1,221 +1,135 @@
-
-
+<!-- 🌟 MODERN HERO SECTION -->
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" height="3" />
-</div>
-
-## 💫 **ABOUT THE ARCHITECT**
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" height="2" />
-</div>
-
-<table>
-<tr>
-<td width="50%" align="center">
-
-### 🎨 **CREATIVE CODE**
-```typescript
-interface Developer {
-  name: "Minidu Madhava";
-  role: "Digital Architect" | "Code Artist";
-  location: "🇱🇰 Sri Lanka";
-  education: "IT Undergraduate";
-  passion: ["Clean Code", "UI/UX", "Innovation"];
-  currentMission: "Building Tomorrow's Web";
-  superPower: "Turning Coffee into Code ☕→💻";
-}
-
-const minidu: Developer = {
-  // Always learning, always creating ✨
-  status: "Ready to collaborate 🚀"
-};
-```
-
-</td>
-<td width="50%" align="center">
-
-### ⚡ **POWER STATS**
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=minidumadhava&layout=donut&theme=radical&hide_border=true&bg_color=0D1117,1a1a2e,16213e&title_color=00D9FF&text_color=ffffff&icon_color=FF6B6B" width="100%" />
-</div>
-
-**🎯 CURRENT FOCUS**
-- 🌟 **Mastering**: MERN Stack & Spring Boot
-- 🤝 **Open to**: Exciting collaborations
-- 💡 **Expertise**: Full-Stack Development
-- 🎨 **Passion**: Creating beautiful UIs
-- 🚀 **Mission**: Building impactful solutions
-
-</td>
-</tr>
-</table>
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" height="2" />
-</div>
-
-## 🔥 **TECH ARSENAL**
-
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=24&duration=3000&pause=1000&color=FF6B6B&center=true&vCenter=true&width=600&lines=⚡+POWERED+BY+CUTTING-EDGE+TECH;🚀+FULL+STACK+MASTERY;💎+CRAFTING+DIGITAL+MAGIC" alt="Tech Banner" />
-</div>
-
-<table>
-<tr>
-<td width="33%" align="center">
-
-### 🎯 **FRONTEND MAGIC**
-<img src="https://skillicons.dev/icons?i=react,nextjs,vue,html,css,sass,tailwind,bootstrap&theme=dark&perline=4" />
-
-**React Ecosystem Expert**
-- ⚡ Next.js & SSR
-- 🎨 Tailwind CSS
-- 📱 Responsive Design
-
-</td>
-<td width="33%" align="center">
-
-### ⚙️ **BACKEND POWER**
-<img src="https://skillicons.dev/icons?i=java,nodejs,spring,express,python,php,cpp,typescript&theme=dark&perline=4" />
-
-**Server-Side Specialist**
-- ☕ Java & Spring Boot
-- 🟢 Node.js & Express
-- 🐍 Python Development
-
-</td>
-<td width="33%" align="center">
-
-### 🗄️ **DATA & CLOUD**
-<img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres,firebase,aws,docker,git,github&theme=dark&perline=4" />
-
-**Database & DevOps**
-- 🔥 Firebase & AWS
-- 🐳 Docker Containers
-- 📊 Database Design
-
-</td>
-</tr>
-</table>
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" height="2" />
+  <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=gradient&text=MADHAWA%20DIYANATH&height=150&fontSize=42&fontAlignY=50&desc=Digital%20Innovator%20%7C%20Full%20Stack%20Developer&descAlignY=75&descSize=18" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=minidumadhava&theme=radical&hide_border=true&bg_color=0D1117,1a1a2e,16213e&title_color=00D9FF&text_color=ffffff&icon_color=FF6B6B&layout=compact" />
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=24&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=🚀+Building+Modern+Web+Experiences;💡+Crafting+Innovative+Solutions;🎨+Designing+Beautiful+interfaces;⚡+Optimizing+Performance" alt="Dynamic Text" />
 </div>
 
-## 📊 **PERFORMANCE DASHBOARD**
-
+<!-- Modern Badge Collection -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=20&duration=2000&pause=1000&color=00D9FF&center=true&vCenter=true&width=500&lines=📈+TRACKING+EXCELLENCE;⚡+CONTINUOUS+GROWTH;🎯+PERFORMANCE+METRICS" alt="Stats Banner" />
+  <img src="https://img.shields.io/badge/🌟_Profile_Views-blue?style=flat-square&logo=eye&logoColor=white&color=6366f1" alt="Views" />
+  <img src="https://komarev.com/ghpvc/?username=madhawa&label=&color=6366f1&style=flat-square" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/madhawa?label=Followers&style=flat-square&color=8b5cf6&logo=github" alt="Followers" />
+  <img src="https://img.shields.io/badge/Status-Available_for_Work-success?style=flat-square&logo=checkmark&logoColor=white" alt="Status" />
 </div>
 
-<table>
-<tr>
-<td width="50%" align="center">
-
-### 🏆 **GITHUB STATS**
-<img src="https://github-readme-stats.vercel.app/api?username=minidumadhava&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117,1a1a2e,16213e&title_color=00D9FF&icon_color=FF6B6B&text_color=ffffff&count_private=true&include_all_commits=true" />
-
-</td>
-<td width="50%" align="center">
-
-### 🔥 **STREAK POWER**
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=minidumadhava&theme=radical&hide_border=true&background=0D1117,1a1a2e,16213e&stroke=00D9FF&ring=FF6B6B&fire=00D9FF&currStreakLabel=ffffff&sideLabels=ffffff&dates=ffffff" />
-
-</td>
-</tr>
-</table>
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" height="2" />
-</div>
-
-### 🌊 **CONTRIBUTION WAVE**
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=minidumadhava&bg_color=0D1117&color=00D9FF&line=FF6B6B&point=ffffff&area=true&hide_border=true&custom_title=🚀%20CONTRIBUTION%20JOURNEY&title_color=00D9FF&area_color=FF6B6B" width="100%" />
-</div>
-
-### 🐍 **CODE SNAKE ANIMATION**
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/minidumadhava/minidumadhava/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/minidumadhava/minidumadhava/output/github-contribution-grid-snake.svg">
-    <img alt="🐍 Contribution Snake" src="https://raw.githubusercontent.com/minidumadhava/minidumadhava/output/github-contribution-grid-snake.svg" width="100%">
-  </picture>
-</div>
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" height="2" />
-</div>
-
-## 🌐 **CONNECT WITH THE ARCHITECT**
-
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=22&duration=2500&pause=1000&color=FF6B6B&center=true&vCenter=true&width=700&lines=🤝+LET'S+BUILD+SOMETHING+AMAZING;🚀+COLLABORATION+AWAITS;💫+CONNECT+%26+CREATE+TOGETHER" alt="Connect Banner" />
-</div>
+## 💫 About Me
 
 <div align="center">
   <table>
     <tr>
-      <td align="center" width="20%">
-        <a href="https://fb.com/minidu.madhava">
-          <img src="https://img.shields.io/badge/FACEBOOK-1877F2?style=for-the-badge&logo=facebook&logoColor=white&labelColor=000000" />
-          <br><sub><b>🔵 Social</b></sub>
-        </a>
+      <td width="50%" valign="top">
+        
+### 👨‍💻 Developer Profile
+```json
+{
+  "name": "Madhawa Diyanath Swarnakantha",
+  "role": "Full Stack Developer",
+  "location": "🇱🇰 Sri Lanka",
+  "education": "Computer Science",
+  "experience": "3+ years",
+  "specialization": [
+    "Modern Web Development",
+    "UI/UX Design",
+    "System Architecture"
+  ],
+  "currentFocus": "Building scalable applications",
+  "availability": "Open to opportunities"
+}
+```
+
       </td>
-      <td align="center" width="20%">
-        <a href="https://www.youtube.com/@minidu">
-          <img src="https://img.shields.io/badge/YOUTUBE-FF0000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=000000" />
-          <br><sub><b>🎥 Content</b></sub>
-        </a>
-      </td>
-      <td align="center" width="20%">
-        <a href="mailto:it23672314@my.sliit.lk">
-          <img src="https://img.shields.io/badge/EMAIL-00D9FF?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000000" />
-          <br><sub><b>📧 Direct</b></sub>
-        </a>
-      </td>
-      <td align="center" width="20%">
-        <a href="https://linkedin.com/in/minidumadhava">
-          <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000000" />
-          <br><sub><b>💼 Professional</b></sub>
-        </a>
-      </td>
-      <td align="center" width="20%">
-        <a href="https://github.com/minidumadhava">
-          <img src="https://img.shields.io/badge/GITHUB-FF6B6B?style=for-the-badge&logo=github&logoColor=white&labelColor=000000" />
-          <br><sub><b>💻 Code</b></sub>
-        </a>
+      <td width="50%" valign="top">
+        
+### 🎯 Current Focus
+
+**🚀 What I'm working on:**
+- Building responsive web applications
+- Exploring cloud technologies
+- Contributing to open source projects
+- Learning new frameworks and tools
+
+**💡 Interests:**
+- Modern JavaScript frameworks
+- Cloud computing & DevOps
+- Mobile app development
+- AI/ML integration
+
+**🎨 Design Philosophy:**
+- User-centered design
+- Performance optimization
+- Clean, maintainable code
+- Accessibility-first approach
+
       </td>
     </tr>
   </table>
 </div>
 
+---
+
+## 🛠️ Tech Stack
+
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" height="2" />
+
+### Frontend Development
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vue,tailwind,sass,bootstrap" />
+
+### Backend Development  
+<img src="https://skillicons.dev/icons?i=nodejs,express,python,django,java,spring,php,laravel" />
+
+### Database & Cloud
+<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,firebase,aws,gcp,docker,kubernetes" />
+
+### Tools & Others
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman,linux,nginx,redis" />
+
+</div>
+
+---
+
+## 📊 GitHub Statistics
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=madhawa&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=madhawa&layout=compact&theme=tokyonight&hide_border=true" />
 </div>
 
 <div align="center">
-  <h2>🎯 <b>READY TO COLLABORATE?</b> 🎯</h2>
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=18&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=💡+OPEN+TO+EXCITING+PROJECTS;⚡+ALWAYS+LEARNING+%26+GROWING;☕+POWERED+BY+COFFEE+%26+PASSION;🚀+LET'S+CREATE+DIGITAL+MAGIC!" alt="Footer Message" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=madhawa&theme=tokyonight&hide_border=true" />
 </div>
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" height="2" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=madhawa&theme=tokyo-night&hide_border=true&area=true" />
 </div>
 
-<!-- 🌟 ULTRA STYLISH FOOTER -->
+---
+
+## 🌐 Connect With Me
+
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=200&section=footer&animation=twinkling" />
+  <a href="https://linkedin.com/in/madhawa">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://twitter.com/madhawa">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+  </a>
+  <a href="mailto:madhawa@example.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/madhawa">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</div>
+
+---
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
 </div>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/MADE_WITH-❤️_&_☕-FF6B6B?style=for-the-badge&labelColor=000000" />
-  <img src="https://img.shields.io/badge/POWERED_BY-CREATIVITY-00D9FF?style=for-the-badge&labelColor=000000" />
-  <img src="https://img.shields.io/badge/STATUS-READY_TO_CODE-success?style=for-the-badge&labelColor=000000" />
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&size=16&duration=4000&pause=1000&color=6366F1&center=true&vCenter=true&width=500&lines=Thanks+for+visiting+my+profile!+✨;Let's+build+something+amazing+together!+🚀;Always+open+to+new+opportunities!+💼" alt="Footer Message" />
 </div>
