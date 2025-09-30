@@ -1,3 +1,3 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=shield&color=0:FFD700,30:FFEC8B,60:DAA520,100:B8860B&height=270&section=header&text=Madhawa%20Swarnakantha&fontSize=36&fontColor=000000&animation=twinkling&fontAlignY=42&desc=Crafting%20Digital%20Excellence&descSize=16&descAlignY=70&stroke=000000&strokeWidth=1&fontFamily=Playfair%20Display" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000428,40:004e92,80:2c3e50,100:4ca1af&height=310&section=header&text=Dive%20Into%20Code%20🌊&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=34&desc=Deep%20Learning%20•%20Deep%20Creating&descSize=18&descAlignY=76&stroke=4ca1af&strokeWidth=1&fontFamily=Montserrat" />
 </p>
