@@ -1,1 +1,1 @@
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:654ea3,50:eaafc8,100:654ea3&height=280&section=header&text=Hello%20World%20🌍&fontSize=40&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Passionate%20About%20Technology&descSize=17&descAlignY=73" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00b09b,100:96c93d&height=240&section=header&text=Code%20With%20Passion&fontSize=36&fontColor=ffffff&animation=fadeIn&fontAlignY=45&desc=Build%20•%20Create%20•%20Innovate&descSize=16&descAlignY=65" />
