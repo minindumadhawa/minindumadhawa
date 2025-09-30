@@ -1,1 +1,1 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff6b6b,50:4ecdc4,100:45b7d1&height=280&section=header&text=Hi%20👋,%20I'm%20Madhawa&fontSize=42&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Full%20Stack%20Developer&descSize=18&descAlignY=75&stroke=000000&strokeWidth=2" />
+<img src="https://capsule-render.vercel.app/api?type=shield&color=0:667eea,100:764ba2&height=260&section=header&text=Madhawa%20Diyanath&fontSize=38&fontColor=ffffff&animation=pulse&fontAlignY=40&desc=Java%20%7C%20Frontend%20%7C%20Video%20Editing&descSize=16&descAlignY=70" />
