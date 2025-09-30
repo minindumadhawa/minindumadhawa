@@ -1,11 +1,8 @@
-<h1 align="center">
-  Hi 👋, I'm <span style="color:#22d3ee;">Minidu Madhava</span>
-</h1>
-
+<!-- 🌊 Modern Animated Header -->
 <p align="center">
-  <b>💻 IT Undergraduate | 🌐 Web Developer | ☕ Java Enthusiast</b>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&pause=1000&color=22D3EE&center=true&vCenter=true&width=700&lines=Hi+👋,+I'm+Minidu+Madhava;IT+Undergraduate+%7C+Web+Developer;Java+%26+MERN+Stack+Enthusiast" alt="Typing Animation" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=22D3EE&center=true&vCenter=true&width=600&lines=Crafting+clean+and+creative+solutions;Passionate+about+Web+Development;Always+learning+and+building" />
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/wave.gif" width="100%" />
 </p>
