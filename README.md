@@ -1,1 +1,1 @@
-<img src="https://capsule-render.vercel.app/api?type=edged&color=0:833ab4,50:fd1d1d,100:fcb045&height=250&section=header&text=Madhawa%20Swarnakantha&fontSize=36&fontColor=ffffff&animation=blinking&fontAlignY=42&desc=Creative%20Developer&descSize=18&descAlignY=68" />
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:654ea3,50:eaafc8,100:654ea3&height=280&section=header&text=Hello%20World%20🌍&fontSize=40&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Passionate%20About%20Technology&descSize=17&descAlignY=73" />
