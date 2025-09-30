@@ -1,3 +1,3 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00dbde,20:00ff87,40:60efff,60:fc00ff,80:ff00cc,100:00dbde&height=280&section=header&text=Code%20With%20Style%20💻&fontSize=42&fontColor=000000&animation=blinking&fontAlignY=44&desc=Neon%20Dreams%20•%20Digital%20Reality&descSize=18&descAlignY=72&stroke=000000&strokeWidth=3&fontFamily=JetBrains%20Mono&duration=400" />
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:0f9b0f,25:38ef7d,50:11998e,75:0575e6,100:021b79&height=310&section=header&text=Nature%20+%20Code%20🌿&fontSize=44&fontColor=ffffff&animation=scaleIn&fontAlignY=36&desc=Sustainable%20Digital%20Solutions&descSize=19&descAlignY=76&stroke=ffffff&strokeWidth=1.2&fontFamily=Quicksand&duration=700" />
 </p>
