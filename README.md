@@ -1,40 +1,41 @@
-<!-- 💻 Animated Code Header -->
+<!-- 🎭 Animated Header with Particle Effect -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=linear-gradient(135deg,#667eea,#764ba2)&height=280&section=header&text=Hi%20👋,%20I'm%20Madhawa%20Diyanath&fontSize=42&fontColor=ffffff&animation=scale&fontAlignY=45&desc=Swarnakantha&descSize=20&descAlignY=70" />
+</p>
+
+<!-- ✨ Floating Introduction -->
 <div align="center">
-
-  <!-- Code Window -->
-  <div style="font-family: 'Fira Code', monospace; background: #1a1a1a; padding: 20px; border-radius: 10px; border: 1px solid #333; text-align: left; max-width: 600px;">
-    
-  <!-- Window Header -->
-  <div style="background: #2d2d2d; padding: 8px; border-radius: 5px 5px 0 0; margin: -20px -20px 20px -20px;">
-      <span style="color: #ff5f56; margin-right: 5px;">●</span>
-      <span style="color: #ffbd2e; margin-right: 5px;">●</span>
-      <span style="color: #27ca3f;">●</span>
-   </div>
-
-  <!-- Animated Code -->
-  <div style="color: #f8f8f2; line-height: 1.5;">
-      <span style="color: #f92672;">class</span> <span style="color: #a6e22e;">Developer</span> {<br>
-      &nbsp;&nbsp;<span style="color: #f92672;">constructor</span>() {<br>
-      &nbsp;&nbsp;&nbsp;&nbsp;<span style="color: #f92672;">this</span>.<span style="color: #a6e22e;">name</span> = <span style="color: #e6db74;">"Madhawa Diyanath"</span>;<br>
-      &nbsp;&nbsp;&nbsp;&nbsp;<span style="color: #f92672;">this</span>.<span style="color: #a6e22e;">role</span> = <span style="color: #e6db74;">"Full Stack Developer"</span>;<br>
-      &nbsp;&nbsp;&nbsp;&nbsp;<span style="color: #f92672;">this</span>.<span style="color: #a6e22e;">skills</span> = [<span style="color: #e6db74;">"JavaScript"</span>, <span style="color: #e6db74;">"React"</span>, <span style="color: #e6db74;">"Node.js"</span>];<br>
-      &nbsp;&nbsp;}<br>
-      &nbsp;&nbsp;<span style="color: #66d9ef;">code</span>() {<br>
-      &nbsp;&nbsp;&nbsp;&nbsp;<span style="color: #f92672;">return</span> <span style="color: #e6db74;">"Hello World!"</span>;<br>
-      &nbsp;&nbsp;}<br>
-      }
-  </div>
-
-   <!-- Blinking Cursor -->
-  <span style="color: #00FF41; animation: blink 1s infinite;">▊</span>
-
-  </div>
+  
+  <h3 align="center">
+    <span style="display: inline-block; animation: float 3s ease-in-out infinite">
+      ✨ Frontend Developer 
+    </span>
+    <span style="display: inline-block; animation: float 3s ease-in-out infinite 0.5s">
+      🎬 Video Editor 
+    </span>
+    <span style="display: inline-block; animation: float 3s ease-in-out infinite 1s">
+      ☕ Java Enthusiast
+    </span>
+  </h3>
+  
+  <p align="center">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=800&color=764BA2&center=true&vCenter=true&width=600&lines=🚀+Turning+ideas+into+reality;💻+Clean+Code+Enthusiast;🎨+Creative+Problem+Solver;📚+Always+Learning+New+Things;🔥+Passionate+About+Innovation" alt="Typing SVG" />
+  </p>
 
 </div>
 
-<style>
-  @keyframes blink {
-    0%, 50% { opacity: 1; }
-    51%, 100% { opacity: 0; }
-  }
-</style>
+---
+
+## 🌟 About Me  
+
+<div align="center">
+
+```javascript
+const madhawa = {
+  pronouns: "he" | "him",
+  code: ["Java", "JavaScript", "C", "C++", "PHP"],
+  tools: ["Spring", "Hibernate", "MySQL", "PostgreSQL"],
+  hobbies: ["Video Editing", "UI/UX Design", "Open Source"],
+  currentFocus: "Mastering Spring Framework & Advanced Java",
+  funFact: "I believe the best code is both functional and beautiful"
+}
