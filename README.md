@@ -30,7 +30,7 @@
 
 <div align="center">
 
-```javascript
+javascript
 const madhawa = {
   pronouns: "he" | "him",
   code: ["Java", "JavaScript", "C", "C++", "PHP"],
