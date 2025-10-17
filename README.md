@@ -1,6 +1,6 @@
 <!-- ✨ Animated Header Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00E5FF&height=180&section=header&text=Madhawa%20Diyanath%20Swarnakantha&fontSize=36&fontColor=0d1117&animation=fadeIn&fontAlignY=35" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=00E5FF&height=180&section=header&text=Madhawa%20Diyanath%20Swarnakantha&fontSize=36&fontColor=0d1117&animation=fadeIn&fontAlignY=35" />
   
 </p>
 
