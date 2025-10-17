@@ -1,31 +1,39 @@
-<!-- 🌊 Animated Header -->
+<!-- 🌟 Modern Gradient Header -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00bcd4&height=250&section=header&text=Hey%20👋,%20I'm%20Madhawa%20Diyanath%20Swarnakantha&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=40" />
+  <img src="https://github.com/DenverCoder1/readme-typing-svg/raw/main/assets/arrow.svg" width="80"/>
 </p>
 
-<h3 align="center">✨ Frontend Developer | 🎬 Video Editor | ☕ Java Enthusiast | 🇱🇰 From Sri Lanka</h3>
+<h1 align="center">
+  <span style="font-size: 50px;">👋 Hi, I'm <span style="color:#00BCD4;">Madhawa Diyanath Swarnakantha</span></span>
+</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=4000&pause=1000&color=00BCD4&center=true&vCenter=true&width=600&lines=Crafting+Intuitive+User+Experiences;Clean+Code+Advocate;Creative+Video+Editor;Always+Learning+Something+New!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=4000&pause=1000&color=00BCD4&center=true&vCenter=true&width=700&lines=Frontend+Developer+💻;Creative+Video+Editor+🎬;Java+Enthusiast+☕;Always+Learning+Something+New!+🚀" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Code-Creativity%20%26%20Logic-00bcd4?style=for-the-badge&logo=markdown&logoColor=white" />
+  <img src="https://img.shields.io/badge/Focus-Java%20%7C%20Frontend%20Dev-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+  <img src="https://img.shields.io/badge/From-Sri%20Lanka-FFCC00?style=for-the-badge&logo=google-earth&logoColor=white" />
 </p>
 
 ---
 
 ## 🚀 About Me  
 
-🎯 Passionate about merging **creativity and code** to craft modern web experiences.  
-💡 Constantly exploring **new tools and frameworks** to grow as a developer.  
-☕ Java keeps me grounded; **UI design** keeps me inspired.  
-🎥 I love expressing creativity through **video editing and visual design**.  
-🤝 Open to collaborating on **open-source and tech communities**.  
+🎯 Passionate about **building creative, high-performance web apps**.  
+💡 Love turning **ideas into reality** with clean, intuitive UI.  
+📚 Currently diving deep into **Spring Boot** & **Hibernate**.  
+🎥 Creative side: **Video editing** and visual storytelling.  
+🤝 Always open to **collaboration** and new opportunities.  
 
 ---
 
 ## 🧠 Currently Exploring  
 
-- 🌱 **Spring Boot & Hibernate** for backend mastery  
-- 🧩 Building scalable **frontend components** with React  
-- 🧰 Diving into **clean architecture and design principles**  
+- 🌱 **Full-stack development** with Java + React  
+- ⚙️ **Modern backend** with Spring Boot  
+- 🎨 **UI/UX design** & accessibility best practices  
 
 ---
 
@@ -43,7 +51,7 @@
 
 ### ⚙️ Tools & Technologies  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,ps,premiere,vscode,figma" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,ps,premiere,figma" />
 </p>
 
 ---
@@ -83,11 +91,12 @@
 
 ## 🧩 Fun Fact  
 
-> “Code is like humor. When you have to explain it, it’s bad.” 😄  
+> “Any fool can write code that a computer can understand.  
+> Good programmers write code that humans can understand.” — *Martin Fowler*
 
 ---
 
-<!-- 🌊 Animated Footer -->
+<!-- 🩵 Clean Gradient Footer -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00bcd4&height=120&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=00bcd4&height=60&section=footer&text=Thanks%20for%20visiting!%20⭐%20&fontSize=20&fontColor=ffffff" />
 </p>
