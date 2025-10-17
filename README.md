@@ -1,6 +1,6 @@
 <!-- ✨ Animated Header Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=00E5FF&height=180&section=header&text=Madhawa%20Diyanath%20Swarnakantha&fontSize=36&fontColor=0d1117&animation=fadeIn&fontAlignY=35" />
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:00E5FF,100:26E0A8&height=200&section=header&text=Madhawa%20Diyanath%20Swarnakantha&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=32&desc=Creative%20Frontend%20Developer%20•%20Java%20Enthusiast%20•%20Video%20Editor&descAlign=50&descAlignY=65&descSize=16" />
   
 </p>
 
