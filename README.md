@@ -1,22 +1,11 @@
 <!-- ✨ Animated Gradient Header -->
 <div align="center">
 
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=40&duration=4000&pause=1000&color=00E5FF&center=true&vCenter=true&width=800&lines=Hey+👋,+I'm+Madhawa+Diyanath+Swarnakantha;Creative+Frontend+Developer+💻;Video+Editor+🎬;Java+Enthusiast+☕" alt="Typing SVG" />
-</h1>
+  <h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=40&duration=4000&pause=1000&color=00E5FF&center=true&vCenter=true&width=800&lines=Hey+👋,+I'm+Madhawa+Diyanath+Swarnakantha;Creative+Frontend+Developer+💻;Video+Editor+🎬;Java+Enthusiast+☕" alt="Typing SVG" />
+  </h1>
 
-<!-- Animated gradient line -->
-<img src="https://github-widgetbox.vercel.app/api/profile?username=madhawadiyanath&theme=blueberry" width="0" height="0" />
-<img src="https://github.com/saadeghi/saadeghi/blob/master/dino.gif" width="0" height="0" />
-
-<p>
-  <img src="https://github.com/DenverCoder1/readme-typing-svg/raw/main/assets/arrow.svg" width="80"/>
-</p>
-
-<!-- Animated Gradient Divider -->
-<p align="center">
-  <img src="https://github.com/kyechan99/capsule-render/raw/master/docs/demo.gif" width="800"/>
-</p>
+  <p align="center"><b>Creative Frontend Developer</b> building clean, fast UIs with a passion for Java and storytelling through video.</p>
 
 </div>
 
@@ -59,12 +48,15 @@
 
 ---
 
-## 📊 GitHub Analytics  
+## 🌟 Featured Projects  
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=madhawadiyanath&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=00E5FF&icon_color=00E5FF" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=madhawadiyanath&theme=react&hide_border=true&background=0D1117&ring=00E5FF&fire=00E5FF&currStreakLabel=00E5FF" width="48%" />
-</p>
+- [Project One](#): Short one-liner describing what it does and your role.
+- [Project Two](#): Short one-liner describing what it does and your role.
+- [Project Three](#): Short one-liner describing what it does and your role.
+
+---
+
+## 📊 GitHub Analytics  
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=madhawadiyanath&bg_color=0D1117&color=00E5FF&line=26E0A8&point=FFFFFF&area=true&hide_border=true" />
